@@ -1,3 +1,3 @@
 # airflow-pod-operator
 Airflow Pod Operator
-Como crear un Pod Operator en Airflow en K8S
+How to create a Pod Operator in Airflow on K8S
